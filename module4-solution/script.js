@@ -68,9 +68,9 @@ WARNING!!! WARNING!!!
         // in the loop. Otherwise, call helloSpeaker's 'speak' method with the current
         // name in the loop.
         if ("j" == firstLetter) {
-            byeSpeaker.speak(names);
+            byeSpeaker.speak(names[i]);
         } else {
-            helloSpeaker.speak(names);
+            helloSpeaker.speak(names[i]);
         }
     }
 })();
