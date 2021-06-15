@@ -1,3 +1,4 @@
 # shifraCoursera.GitHub.io
-🐱‍💻 A Repo to publish Coursera Assignment for HTML, CSS &amp; JS course [Solution Module 4](https://github.com/MoElaSec/shifraCoursera.GitHub.io/blob/main/module4-solution/index.html)
+🐱‍💻 A Repo to publish Coursera Assignment for HTML, CSS &amp; JS course [Solution for Module 4](https://moelasec.github.io/shifraCoursera.GitHub.io/module4-solution/)
 
+[Solution for Module 4](https://moelasec.github.io/shifraCoursera.GitHub.io/module4-solution/)
